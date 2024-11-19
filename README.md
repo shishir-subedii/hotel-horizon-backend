@@ -1,0 +1,1 @@
+This is the backend for a hotel booking website called 'Hotel Horizon'. This project was created in July 2023.
